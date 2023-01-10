@@ -22,6 +22,17 @@
 			"organizer": "Jas Acapella"
 		},
 		{
+			"id": 457,
+			"category": "eco",
+			"title": "Wypalanie dpf na ścieżce rowerowej",
+			"description": "Kto powiedział, że tylko rowerzyści mogą wjeżdżać Ci się na drogę? Zrób im to samo. Nic tak nie rozgrzewa do rajdu na świecącym carbonowym ostrym kole po środku drogi krajowej numer 69, jak soczysty dym pełny sadzy z Twojego 20-letniego dpf'a który powinien już dawno zostać wycięty.",
+			"location": "Pcim",
+			"date": "May 17, 2022",
+			"time": "21:37",
+			"petsAllowed": true,
+			"organizer": "Jas Acapella"
+		},
+		{
 			"id": 789,
 			"category": "sexualsustainability",
 			"title": "'Defekacja' na plaży",
@@ -31,6 +42,17 @@
 			"time": "11:00",
 			"petsAllowed": false,
 			"organizer": "Jimmy Poop"
+		},
+		{
+			"id": 1122,
+			"category": "idkbro",
+			"title": "To już jest koniec",
+			"description": "Nie ma już nic. Jesteśmy wolni, możemy iść!",
+			"location": "Gimnazjum Nr2 w Katowicach",
+			"date": "September 1, 2022",
+			"time": "09:00",
+			"petsAllowed": false,
+			"organizer": "dj Bazanaaa"
 		}
 	]
 }
