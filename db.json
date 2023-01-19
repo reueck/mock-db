@@ -53,6 +53,17 @@
 			"time": "09:00",
 			"petsAllowed": false,
 			"organizer": "dj Bazanaaa"
+		},
+		{
+			"id": 1123,
+			"category": "scsfee",
+			"title": "Nowoczesny remarketing gołębiem pocztowym",
+			"description": "Najwydajniejszy srodek afiliacyjnego marketingu internetowego",
+			"location": "Denver",
+			"date": "September 1, 2023",
+			"time": "09:00",
+			"petsAllowed": false,
+			"organizer": "Jas Kapelaaa"
 		}
 	]
 }
